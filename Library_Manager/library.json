@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Haunting Adline",
+        "author": "H. D. Carlton",
+        "year": 2021,
+        "genre": " Romance novel, Thriller, Suspense, Erotic literature, Contemporary romance, New adult fiction, Gothic fiction",
+        "read": true
+    },
+    {
+        "title": "Harry Potter ",
+        "author": "J.K Rowling",
+        "year": 1997,
+        "genre": "Fantsy",
+        "read": false
+    },
+    {
+        "title": "Twisted Love",
+        "author": "Ana Huang",
+        "year": 2021,
+        "genre": "Romance novel, New adult fiction, Contemporary romance",
+        "read": false
+    },
+    {
+        "title": "Butcher and Blackbird",
+        "author": " Brynne Weaver",
+        "year": 2023,
+        "genre": " Romance novel, Dark comedy, Contemporary romance, Erotic literature",
+        "read": false
+    },
+    {
+        "title": "Ruthless",
+        "author": " Gina L. Maxwell",
+        "year": 2020,
+        "genre": " A Captive Enemies to Lovers Dark Mafia Romance",
+        "read": false
+    },
+    {
+        "title": "The Kiss Thief",
+        "author": ": L J Shen",
+        "year": 2019,
+        "genre": " Romance novel, Contemporary romance, New adult fiction",
+        "read": false
+    },
+    {
+        "title": "Tease Me",
+        "author": "Faith Summers",
+        "year": 2020,
+        "genre": "Comentry Romance, Romance,standalone, full-length DARK Billionaire Mafia Romance ",
+        "read": false
+    }
+]
